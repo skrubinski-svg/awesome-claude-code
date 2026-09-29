@@ -1,0 +1,18 @@
+{
+  "band_width": 0.05,
+  "table_start_price": 3.60,
+  "table_end_price": 11.05,
+
+  "wheelworx_new": {
+    "mpg": 5.0,
+    "start_surcharge_at_table_start": 0.23
+  },
+
+  "dat_flatbed": { "peg": 1.25, "mpg": 5.0 },
+
+  "wheelworx_2025": { "first_band": 3.60, "dollars_per_cent": 0.055 },
+
+  "history_weeks": 52,
+  "chart_12wk_weeks": 12,
+  "ytd_label_every_n_weeks": 4
+}
